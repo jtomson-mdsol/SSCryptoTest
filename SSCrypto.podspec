@@ -38,5 +38,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 LICENSE
 }
 	s.source_files = "SSCrypto.{h,m}"
-	s.dependency "OpenSSL-Universal", "1.0.1j-2"
+	s.dependency "OpenSSL-Universal", "1.0.1l"
 end
